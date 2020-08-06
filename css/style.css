@@ -129,6 +129,7 @@ body {
   right: 0;
   z-index: 99;
   max-width: 350px;
+  max-heigth: 650px;
 }
 
 .text-gray {
