@@ -130,6 +130,7 @@ body {
   z-index: 99;
   max-width: 350px;
   heigth: 450px;
+  margin-bottom: 100px;
 }
 
 .text-gray {
